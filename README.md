@@ -4,5 +4,4 @@ Chat-Client-Server
 2. Run the server as:
     **./server 'portNumber'**
 3. Run the client as:
-
-    **./client 'username' 'serverAddress' 'portNumber'**
+   **./client 'username' 'serverAddress' 'portNumber'**
